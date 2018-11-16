@@ -22,7 +22,7 @@ bot.on('conversationUpdate', function (message) {
     if (message.membersAdded[0].id === message.address.bot.id) {
         var reply = new builder.Message()
             .address(message.address)
-            .text("Hello, I'm careBOTyou! How's your day going?");
+            .text("Welcome to my Hearthstone Bot");
         bot.send(reply);
     }
 });
@@ -127,5 +127,7 @@ bot.dialog('/', function (session) {
                 session.send(msg);
             }
         })
+    } else {
+        session.send('enter /hearthstone <card name> to view card details')
     }
 });
