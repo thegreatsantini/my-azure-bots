@@ -1,0 +1,18 @@
+{
+    "name": "smashing",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "0db81ea8-ccf8-414d-9419-602f16e626da",
+            "appPassword": "SkpmbjFAUlS4Al8p4q4eZw==!kHCw99Vus2eocmqc6KXrWh7y0iVtKe+B/V2345zpT4o=",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "a0b86be0-e9ea-11e8-8ea0-83b42ce81c28",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "Dw3/LF78R/JFx/wSiDy72w==!XIbDjdKM93iE25FidxmIcADDKYVYRM8LXtMHahlhElY4R+qMwlGusMgOaAWGJOrS",
+    "version": "2.0",
+    "overrides": null,
+    "path": "/Users/admin/Desktop/Bots/smashing/smashing.bot"
+}
