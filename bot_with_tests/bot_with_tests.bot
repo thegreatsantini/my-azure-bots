@@ -1,0 +1,18 @@
+{
+    "name": "bot_with_tests",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "14c7885a-efc5-45cd-912e-8cebc490b448",
+            "appPassword": "4NtMyo1NvdhnLAEnRmqZNg==!2NMch6gHN0NHa0I2fynUR9GrCAEOR+FXSPgTEuVmBqQ=",
+            "endpoint": "http://localhost:3978/api/v1/messages",
+            "id": "343cea20-ea0a-11e8-9f00-ef7920baf493",
+            "name": "http://localhost:3978/api/v1/messages"
+        }
+    ],
+    "padlock": "zBJCZFa3Um6lO0vriI9j9A==!G34VGcxANNeIDC6RDzuih5j/hNFyPpEy+0muvUWH4ObULRPAi/xbqa6eleAIWNKs",
+    "version": "2.0",
+    "overrides": null,
+    "path": "/Users/admin/Desktop/Bots/bot_with_tests/bot_with_tests.bot"
+}

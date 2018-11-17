@@ -1,0 +1,21 @@
+{
+  "name": "bot_with_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/_mocha test/*"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "dotenv": "^6.1.0",
+    "restify": "^7.2.3"
+  },
+  "devDependencies": {
+    "bot-tester": "^3.4.5",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
